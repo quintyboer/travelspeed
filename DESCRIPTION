@@ -1,6 +1,6 @@
 Package: travelspeed
 Type: Package
-Title: Calculate travel speed between two geolocation points
+Title: Calculate travel speed between geolocation points
 Version: 0.1.0
 Author: Quinty Boer
 Maintainer: Quinty Boer <q.e.boer@students.uu.nl>
