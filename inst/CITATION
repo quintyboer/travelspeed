@@ -2,9 +2,10 @@ citHeader("To cite travelspeed in publications use:")
 
 citEntry(
   entry    = "Manual",
-  title    = "quintyboer/travelspeed: Version 0.1.0 - First release",
+  title    = "quintyboer/travelspeed: Version 0.1.1 - First release",
   author   = "Quinty Boer",
   year     = "2025",
+  doi      = "10.5281/zenodo.14728147"
   url      = "github.com/quintyboer/travelspeed",
-  textVersion = paste("Boer, Q. (2025). quintyboer/travelspeed: Version 0.1.0 - First release (Version v0.1.0) [Computer software]. https://github.com/quintyboer/travelspeed.")
+  textVersion = paste("Boer, Q. (2025). quintyboer/travelspeed: Version 0.1.0 - First release (Version v0.1.1) [Computer software]. https://github.com/quintyboer/travelspeed.")
 )
